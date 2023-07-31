@@ -1,0 +1,9 @@
+# Arquivos gerados pelo sistema
+.settings/
+bin/
+*.class
+
+# Arquivos específicos do Eclipse (se estiver usando o Eclipse)
+.classpath
+.project
+
